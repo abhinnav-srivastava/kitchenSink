@@ -1,1 +1,3 @@
-# component
+# KitchenSink
+
+Anything but KitchenSink
